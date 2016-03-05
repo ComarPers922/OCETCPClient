@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\Laosong\NewOCETCPListener\NewOCETCPListener\bin\Debug\NewOCETCPListener.dll
+C:\Users\Administrator\Desktop\Laosong\NewOCETCPListener\NewOCETCPListener\bin\Debug\NewOCETCPListener.pdb
+C:\Users\Administrator\Desktop\Laosong\NewOCETCPListener\NewOCETCPListener\obj\Debug\NewOCETCPListener.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Laosong\NewOCETCPListener\NewOCETCPListener\obj\Debug\NewOCETCPListener.dll
+C:\Users\Administrator\Desktop\Laosong\NewOCETCPListener\NewOCETCPListener\obj\Debug\NewOCETCPListener.pdb

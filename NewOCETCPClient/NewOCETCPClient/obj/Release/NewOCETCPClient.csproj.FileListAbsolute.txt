@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\Laosong\NewOCETCPClient\NewOCETCPClient\bin\Release\NewOCETCPClient.dll
+C:\Users\Administrator\Desktop\Laosong\NewOCETCPClient\NewOCETCPClient\bin\Release\NewOCETCPClient.pdb
+C:\Users\Administrator\Desktop\Laosong\NewOCETCPClient\NewOCETCPClient\obj\Release\NewOCETCPClient.dll
+C:\Users\Administrator\Desktop\Laosong\NewOCETCPClient\NewOCETCPClient\obj\Release\NewOCETCPClient.pdb
+C:\Users\Administrator\Desktop\Laosong\NewOCETCPClient\NewOCETCPClient\obj\Release\NewOCETCPClient.csprojResolveAssemblyReference.cache
