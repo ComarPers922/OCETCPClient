@@ -20,9 +20,9 @@ namespace NewOCETCPListener
             tcplistener.Start();
             listening = new Thread(delegate()
                 {
-                    var temp = tcplistener.AcceptTcpClient();
                     while (true)
                     {
+                        var temp = tcplistener.AcceptTcpClient();
                         if (TCPAcceptRequestArrivedHandler != null)
                         {
                             TCPAcceptRequestArrivedHandler(this, temp);
@@ -33,7 +33,7 @@ namespace NewOCETCPListener
             listening.Start();
         }        
         
-        [Obsolete("不推荐使用该方法")]
+        [Obsolete("This method is not recommanded!")]
         public MyNewOCETCPListener(int port)
         {
             this.tcplistener = new TcpListener(port);
