@@ -3,3 +3,8 @@ C:\Users\Administrator\Desktop\Laosong\NewOCETCPListener\NewOCETCPListener\bin\D
 C:\Users\Administrator\Desktop\Laosong\NewOCETCPListener\NewOCETCPListener\obj\Debug\NewOCETCPListener.csprojResolveAssemblyReference.cache
 C:\Users\Administrator\Desktop\Laosong\NewOCETCPListener\NewOCETCPListener\obj\Debug\NewOCETCPListener.dll
 C:\Users\Administrator\Desktop\Laosong\NewOCETCPListener\NewOCETCPListener\obj\Debug\NewOCETCPListener.pdb
+C:\Users\ComarPers Leo\Desktop\NewLaosong\NewOCETCPListener\NewOCETCPListener\bin\Debug\NewOCETCPListener.dll
+C:\Users\ComarPers Leo\Desktop\NewLaosong\NewOCETCPListener\NewOCETCPListener\bin\Debug\NewOCETCPListener.pdb
+C:\Users\ComarPers Leo\Desktop\NewLaosong\NewOCETCPListener\NewOCETCPListener\obj\Debug\NewOCETCPListener.csprojResolveAssemblyReference.cache
+C:\Users\ComarPers Leo\Desktop\NewLaosong\NewOCETCPListener\NewOCETCPListener\obj\Debug\NewOCETCPListener.dll
+C:\Users\ComarPers Leo\Desktop\NewLaosong\NewOCETCPListener\NewOCETCPListener\obj\Debug\NewOCETCPListener.pdb
